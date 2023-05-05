@@ -78,5 +78,5 @@ The scope of the final project for ITF Manual Testing Course is to use all gaine
 |---|---|---|
 | Run functional test cases for | 28.04. 2023 | Alexandra Perja |
 | Run GUI test cases for | 02.05. 2023 | Anca Pop |
-
+| Summary | 08.05.2023 | Ioana |
 
